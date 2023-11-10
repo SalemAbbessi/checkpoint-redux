@@ -1,0 +1,6 @@
+export const DELETETODO="DELETETODO";
+export const DONETODO="DONETODO";
+export const EDITTODO="EDITTODO";
+export const ADDTODO="ADDTODO";
+export const FILTEREDONE="FILTEREDONE"
+export const FILTERENOTDONE="FILTERENOTDONE"
